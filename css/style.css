@@ -1,0 +1,18 @@
+a{
+    margin: 10px;
+    color: aqua;
+    border-color: blue;
+}
+
+section{
+    color: aqua;
+    margin: 100px;
+    border: 3px;
+    border-color: blue;
+}
+h1{
+    margin-left:20px;
+    border: 10px;
+    font-size: 40px;
+
+}
